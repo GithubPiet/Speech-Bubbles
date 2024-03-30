@@ -24,4 +24,5 @@ Step 3: Time to place it in the game
 
 
 
-3d: Once Extracted copy the speech folder into what unreal project you want it in
+3d: Once in the content folder just paste the speech folder in: ![3d](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/a21a5f7a-e16d-4eae-bbf6-35e6061e2c25)
+
