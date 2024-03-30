@@ -1,6 +1,6 @@
 Hi Welcome to Piet's Speech-Bubbles Code
 
-I'm Jacob (the same dude as in the Youtube: ), and i will help You through this processs
+I'm Jacob (the same dude as in the Youtube: ), and i will help You through this processs step by step
 
 
 Step 1: Download the file 
@@ -17,9 +17,10 @@ Step 3: Time to place it in the game
 
 3a: Copy the speech folder
 
-3b: Locate the project you want the code to be added to (Generally Documents\Unreal Projects): ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/16fe4347-7b26-48d9-8dc8-b390d827d005)
+3b: Locate the project you want to add the code to (Generally Documents\Unreal Projects): ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/16fe4347-7b26-48d9-8dc8-b390d827d005)
 
 
-3c
+3c: Open the project folder and make your way to the content folder![3c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/3d0a673f-1b54-4096-854f-f44ba0b5c674)
+
 
 3d: Once Extracted copy the speech folder into what unreal project you want it in
