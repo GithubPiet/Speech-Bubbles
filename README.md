@@ -5,11 +5,11 @@ I'm Jacob (the same dude as in the Youtube: ), and I will help You through this 
   
 Step 1: Download the file 
 
-1a: Click Speech_Plugin.Zip ![1a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/7035139b-cef4-4164-8ee9-33c718655bd4)
+  1a: Click Speech_Plugin.Zip ![1a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/7035139b-cef4-4164-8ee9-33c718655bd4)
   
   
 
-1b: Download raw file![2b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/bc4abfb8-e2b5-4d55-a2d4-6a345abcee58)
+  1b: Download raw file![2b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/bc4abfb8-e2b5-4d55-a2d4-6a345abcee58)
 
 
 Step 2: Once Downloaded you will need to unzip (Extract all) ![2](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/fe131e0b-5a31-493c-8922-533b260e0c59)
