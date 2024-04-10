@@ -16,11 +16,16 @@ Step 2: Once Downloaded you will need to unzip (Extract all) ![2](https://github
 
 
 
-Step 3: Time to place it in the game
+Step 3: Find your plugin folder (this is steps to add to one unreal engine (repeat it however many you want it added to))
 
-3a: Copy the speech folder
+3a: First find the unreal engine folder (e.g. D:\Epic Games\UE_5.3)![3a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/9fe5c22f-b4b8-40de-968b-9393f1389b32)
 
-3b: Locate the project you want to add the code to (Generally Documents\Unreal Projects): ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/16fe4347-7b26-48d9-8dc8-b390d827d005)
+
+3b: You can find the plugins in engine ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/4afe0d11-5db2-45db-a15c-14fddf62ad7e)
+
+
+
+Locate the project you want to add the code to (Generally Documents\Unreal Projects): ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/16fe4347-7b26-48d9-8dc8-b390d827d005)
 
 
 3c: Open the project folder and make your way to the content folder![3c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/35bbbff1-46e2-4706-aeb2-791af832123a)
