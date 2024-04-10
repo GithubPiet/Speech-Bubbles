@@ -1,13 +1,13 @@
 Hi Welcome to Piet's Speech-Bubble Plugin
 
 I'm Jacob (the same dude as in the Youtube: ), and I will help You through this processs step by step
- 
- 
+  
+  
 Step 1: Download the file 
 
 1a: Click Speech_Plugin.Zip ![1a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/7035139b-cef4-4164-8ee9-33c718655bd4)
-
-
+  
+  
 
 1b: Download raw file![2b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/bc4abfb8-e2b5-4d55-a2d4-6a345abcee58)
 
@@ -26,11 +26,11 @@ Step 3: Find your plugin folder (this is steps to add to one unreal engine (repe
 Then Plugins
 ![3c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/b88cea45-4772-4ce2-bc6e-8b603844ac55)
 
-  
+    
  
- 
+    
 
-
+   
 Locate the project you want to add the code to (Generally Documents\Unreal Projects): ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/16fe4347-7b26-48d9-8dc8-b390d827d005)
 
 
