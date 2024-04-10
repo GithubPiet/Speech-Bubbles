@@ -1,7 +1,7 @@
 Hi Welcome to Piet's Speech-Bubble Plugin
 
 I'm Jacob (the same dude as in the Youtube: ), and I will help You through this processs step by step
-  
+   <br> 
   
 Step 1: Download the file 
 
@@ -10,7 +10,7 @@ Step 1: Download the file
   
 
   1b: Download raw file![2b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/bc4abfb8-e2b5-4d55-a2d4-6a345abcee58)
-
+ <br> 
 
 Step 2: Once Downloaded you will need to unzip (Extract all) ![2](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/fe131e0b-5a31-493c-8922-533b260e0c59)
  
@@ -27,7 +27,7 @@ Then Plugins
 ![3c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/b88cea45-4772-4ce2-bc6e-8b603844ac55)
 
       
- <br> 
+ <br> <br> 
     
   
    
