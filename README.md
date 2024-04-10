@@ -28,6 +28,9 @@ Then Plugins
 
 
 
+
+
+
 Locate the project you want to add the code to (Generally Documents\Unreal Projects): ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/16fe4347-7b26-48d9-8dc8-b390d827d005)
 
 
