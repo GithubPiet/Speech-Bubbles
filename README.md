@@ -18,10 +18,11 @@ Step 2: Once Downloaded you will need to unzip (Extract all) ![2](https://github
 
 Step 3: Find your plugin folder (this is steps to add to one unreal engine (repeat it however many you want it added to))
 
-3a: First find the unreal engine folder (e.g. D:\Epic Games\UE_5.3)![3a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/9fe5c22f-b4b8-40de-968b-9393f1389b32)
+3a: First find the unreal engine folder (e.g. D:\Epic Games\UE_5.3)
 
 
 3b: You can find the plugins in engine ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/4afe0d11-5db2-45db-a15c-14fddf62ad7e)
+Then Plugins![3c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/b88cea45-4772-4ce2-bc6e-8b603844ac55)
 
 
 
