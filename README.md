@@ -27,7 +27,7 @@ Then Plugins
 ![3c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/b88cea45-4772-4ce2-bc6e-8b603844ac55)
 
       
- ( <br> )
+ <br> 
     
   
    
