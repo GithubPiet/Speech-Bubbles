@@ -24,7 +24,7 @@ Step 3: Find your plugin folder (this is steps to add to one unreal engine (repe
 3b: You can find the plugins in engine ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/4afe0d11-5db2-45db-a15c-14fddf62ad7e)
 
 Then Plugins
-![3c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/b88cea45-4772-4ce2-bc6e-8b603844ac55)
+![3c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/b88cea45-4772-4ce2-bc6e-8b603844ac55) <br> 
 <br>
 <br> 
 Locate the project you want to add the code to (Generally Documents\Unreal Projects): ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/16fe4347-7b26-48d9-8dc8-b390d827d005)
