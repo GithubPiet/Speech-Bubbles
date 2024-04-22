@@ -14,7 +14,7 @@ Step 1: Download the file
 
 Step 2: Once Downloaded you will need to unzip (Extract all) ![2](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/fe131e0b-5a31-493c-8922-533b260e0c59)
 
-Step 2a: Once that is done open the unzipped folder ![2a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/845ef2d8-ef7a-4903-83c2-fbac3d48cf0d)
+2a: Once that is done open the unzipped folder ![2a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/845ef2d8-ef7a-4903-83c2-fbac3d48cf0d)
  <br> and copy the Speech_Plugin folder ![2ab](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/96aa5877-a6bb-4e16-8fcb-b5407648eaa7)
 , we will need that later.
  
@@ -33,9 +33,8 @@ Then Plugins  <br>
 3d: Now just paste the unzipped Speech_Plugin folder that i got you to copy eariler.
 
 
-3c: Open the project folder and make your way to the content folder![3c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/35bbbff1-46e2-4706-aeb2-791af832123a)
+Step 4: Open the unreal engine project that you want to add this to
+4a: go to edit then plugins ![4a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/49fb76f5-9ff6-4e3a-874f-bd53c3e362c5)
 
-
-3d: Once in the content folder just paste the speech folder in: ![3d](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/a21a5f7a-e16d-4eae-bbf6-35e6061e2c25)![3d_Complete](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/12e49c7b-cef5-4fe4-8f92-861bcb9c7531)
 
 
