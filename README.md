@@ -56,3 +56,9 @@ Step 6: Use It!!!
  <br>
 The options can be found in the details panel when you select the speech component ![6a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/1bfe55b2-dbc0-47fe-b07d-308f18c101c4)
  <br>
+All you have to do to use it is search for say in the blueprint  <br> ![6b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/fa5648fa-cdc3-4d3c-8c45-005fabde17c8)
+ <br>
+ And type what you want to say int the "what to say" part![6c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/da6e0cbe-2f84-4723-8215-3a2f3361a977)
+<br>
+![6d](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/70c4c42d-fd41-49d3-ba28-450a19a06dcb)
+
