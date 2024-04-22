@@ -16,7 +16,7 @@ Step 2: Once Downloaded you will need to unzip (Extract all) ![2](https://github
  
  
  
-Step 3: Find your plugin folder (this is steps to add this plugin to one version of unreal enginer (e.g. 5.3), to add this plugin in to multiple versions just repeat))
+Step 3: Find your plugin folder (this part is how to added the plugin to one version of unreal engine (e.g. 5.3), to add this plugin to multiple versions just repeat it for them (e.g. D:\Epic Games\UE_5.2)))
 
 3a: First find the unreal engine folder (e.g. D:\Epic Games\UE_5.3)
 
