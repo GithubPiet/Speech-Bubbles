@@ -51,3 +51,8 @@ Step 5: Adding it to a blueprint class
 5b: click add a new component ![5a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/18614b85-807c-4914-bd25-a40b7913f7f9)
  <br>
 Search for speech and add it ![5b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/34f88252-e3eb-4a35-93b5-79692d7fdd4e)
+
+Step 6: Use It!!!
+ <br>
+The options can be found in the details panel when you select the speech component ![6a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/1bfe55b2-dbc0-47fe-b07d-308f18c101c4)
+ <br>
