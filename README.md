@@ -15,7 +15,7 @@ Step 1: Download the file
 Step 2: Once Downloaded you will need to unzip (Extract all) ![2](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/fe131e0b-5a31-493c-8922-533b260e0c59)
 
 Step 2a: Once that is done open the unzipped folder ![2a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/845ef2d8-ef7a-4903-83c2-fbac3d48cf0d)
- and copy the Speech_Plugin folder ![2ab](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/96aa5877-a6bb-4e16-8fcb-b5407648eaa7)
+ <br> and copy the Speech_Plugin folder ![2ab](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/96aa5877-a6bb-4e16-8fcb-b5407648eaa7)
 , we will need that later.
  
  
