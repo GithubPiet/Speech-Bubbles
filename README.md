@@ -34,7 +34,8 @@ Then Plugins  <br>
 
 
 Step 4: Open the unreal engine project that you want to add this to
+<br>
 4a: go to edit then plugins ![4a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/49fb76f5-9ff6-4e3a-874f-bd53c3e362c5)
-
+4b: search for ![4b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/1b21b2d5-c8d8-4343-b8ee-dc0245385a4d) speech_plugin
 
 
