@@ -40,7 +40,9 @@ Then Plugins  <br>
 Step 4: Enabling the plugin in the engine
 <br> 
 4a: Open the unreal engine project that you want to add this to
+<br>
 4b: go to edit then plugins ![4a](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/49fb76f5-9ff6-4e3a-874f-bd53c3e362c5)
+<br>
 4c: search for ![4b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/1b21b2d5-c8d8-4343-b8ee-dc0245385a4d) speech_plugin and tick it then restart now ![4c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/f5d2e048-dedb-4e31-9348-b36710539bc0)
 
 Step 5: Adding it to a blueprint class
