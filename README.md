@@ -28,7 +28,7 @@ Step 3: Finding your plugin folder and pasting it (this part is how to added the
 <br> 
 3a: First find the unreal engine folder (e.g. D:\Epic Games\UE_5.3)
 
-3b: You can find the plugins in engine ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/4afe0d11-5db2-45db-a15c-14fddf62ad7e)
+3b: You can find the plugins folder in engine ![3b](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/4afe0d11-5db2-45db-a15c-14fddf62ad7e)
 
 Then Plugins  <br>
 ![3c](https://github.com/GithubPiet/Speech-Bubbles/assets/114337709/b88cea45-4772-4ce2-bc6e-8b603844ac55) <br> 
