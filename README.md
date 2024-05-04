@@ -1,6 +1,6 @@
 Hi Welcome to Piet's Speech-Bubble Plugin
 
-I'm Jacob (the same dude as in the Youtube: ), and I will help You through this processs step by step
+I'm Jacob (the same dude as in the Youtube: https://www.youtube.com/watch?v=k4Y-5Wd1SpE), and I will help You through this processs step by step
 <br> 
 <br>  
 Step 1: Downloading the file 
